@@ -1,0 +1,13 @@
+[user]
+	name = escray
+	email = zescray@gmail.com
+[credential]
+	helper = osxkeychain
+[color]
+	ui = true
+[alias]
+	lg = log --graph --decorate --pretty=oneline --abbrev-commit --all
+[hub]
+	protocol = https
+[push]
+	default = simple
